@@ -1,0 +1,8 @@
+{
+  "name": "auto-moviedb-chrome-extension",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.2.0"
+  },
+  "devDependencies": {}
+}
